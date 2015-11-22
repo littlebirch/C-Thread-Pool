@@ -1,4 +1,5 @@
 ![Build status](http://178.62.170.124:3000/pithikos/c-thread-pool/badge/?branch=master)
+# NOTE::This is a fork from Pithikos's C-Thread-Pool project.Source files should be customized in according with new requirement
 
 # C Thread Pool
 
